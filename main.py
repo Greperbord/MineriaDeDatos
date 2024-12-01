@@ -1,3 +1,28 @@
+#Librerías por instalar:
+#pip install matplotlib
+#pip install pillow
+#pip install statsmodels
+#pip install tk
+
+#Y aparte se necesita python:
+#https://www.python.org/downloads/
+
+#Ejecutar lo siguiente para abrir el programa:
+#python main.py
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # main.py
 import sqlite3
 import tkinter as tk
